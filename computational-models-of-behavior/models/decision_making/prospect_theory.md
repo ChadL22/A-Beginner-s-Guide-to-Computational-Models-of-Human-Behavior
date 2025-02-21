@@ -51,6 +51,6 @@ Where:
 🔹 **Large probabilities (e.g., insuring a house) are underweighted.**
 
 ## 📚 Further Reading
-- [Kahneman & Tversky (1979) Original Paper](https://www.jstor.org/stable/1833352)
+- [Kahneman & Tversky (1979) Original Paper](http://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)
 - [Wikipedia: Prospect Theory](https://en.wikipedia.org/wiki/Prospect_theory)
 - [Nobel Prize Lecture on Prospect Theory](https://www.nobelprize.org/uploads/2018/06/kahneman-lecture.pdf)
