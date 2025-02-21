@@ -14,8 +14,8 @@ The probability of selecting action $$\( a_i \)$$ from a set of possible actions
 $$P(a_i) = \frac{e^{\beta Q(a_i)}}{\sum_{j} e^{\beta Q(a_j)}}$$
 
 Where:
-- $$\( P(a_i) \)$$ = **Probability of choosing action $$\( a_i \)**.$$
-- $$\( Q(a_i) \)$$ = **Expected value (reward estimate) of action $$\( a_i \)**.$$
+- $$\( P(a_i) \)$$ = **Probability of choosing action $$\( a_i \)$$**.
+- $$\( Q(a_i) \)$$ = **Expected value (reward estimate) of action $$\( a_i \)$$**.
 - $$\( \beta \)$$ = **Inverse temperature parameter** (*higher values lead to more deterministic choices*).
 
 ## 🔍 Effect of $$\( \beta \)$$ (Temperature Parameter)
@@ -24,9 +24,9 @@ Where:
 
 ## 🔍 Example: Choosing a Restaurant
 A person chooses between:
-- **Pizza $$($Q = 5$)$$ **
-- **Burgers $$($Q = 8$)$$ **
-- **Sushi $$($Q = 7$)$$ **
+- **Pizza ($Q = 5$)**
+- **Burgers ($Q = 8$)**
+- **Sushi ($Q = 7$)**
 
 With $$**\( \beta = 1 \)**$$, the probability of choosing each option is:
 
