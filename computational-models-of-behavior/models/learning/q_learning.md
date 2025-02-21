@@ -28,5 +28,5 @@ Using **Q-learning**, the robot updates its table of $$\( Q(s, a) \)$$ values ba
 
 ## 📚 Further Reading
 - [Reinforcement Learning: An Introduction (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html)
-- [Q-Learning Explained (DeepMind Blog)](https://deepmind.com/learning-resources/reinforcement-learning/)
+- [Q-Learning Explained (Hugging Face Course)](https://huggingface.co/learn/deep-rl-course/unit2/q-learning)
 - [Q-Learning in AI](https://towardsdatascience.com/q-learning-explained-7e3f553c75a3)
