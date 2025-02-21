@@ -23,7 +23,7 @@ A robot moves in a **grid world** where:
 - **States $$(\( s \))$$** are different grid locations.
 - **Actions $$(\( a \))$$** include moving **up, down, left, right**.
 - **Rewards $$(\( r \))$$** are +1 for reaching the goal, -1 for hitting a wall, and 0 otherwise.
-$$
+
 Using **Q-learning**, the robot updates its table of $$\( Q(s, a) \)$$ values based on its experiences until it learns the best policy.
 
 ## 📚 Further Reading
