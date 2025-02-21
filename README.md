@@ -21,37 +21,42 @@ Understanding human behavior is essential for fields such as **AI, cognitive sci
 ---
 
 ## **📁 Repository Structure**
+```📂 computational-models-of-human-behavior
 
-```
-📂 computational-models-of-human-behavior
-│── 📜 README.md              # Project Overview & Contribution Guidelines
-│── 📜 CONTRIBUTING.md         # How to Contribute
-│── 📜 LICENSE                 # Open-source licensing
-│── 📂 docs                    # Explanations, Tutorials & References
-│── 📂 models
-│   │── decision_making/
-│   │   │── expected_utility.md
-│   │   │── prospect_theory.md
-│   │   │── softmax_model.md
-│   │── learning/
-│   │   │── bayesian_updating.md
-│   │   │── q_learning.md
-│   │── social_behavior/
-│   │   │── replicator_dynamics.md
-│   │   │── schelling_segregation.md
-│── 📂 code
-│   │── python/
-│   │   │── decision_models.py
-│   │   │── learning_models.py
-│   │── R/
-│   │── MATLAB/
-│── 📂 notebooks
-│   │── 📜 decision_models.ipynb
-│   │── 📜 learning_models.ipynb
-│── 📂 resources
-│   │── 📜 books.md
-│   │── 📜 online_courses.md
-│── 📂 discussions/            # Feature requests & topic discussions
+↪ 📜 README.md               → Project Overview & Contribution Guidelines  
+↪ 📜 CONTRIBUTING.md         → How to Contribute  
+↪ 📜 LICENSE                 → Open-source Licensing  
+
+📂 docs                      → Explanations, Tutorials & References  
+
+📂 models                    → Computational Models  
+   ↳ 📂 Decision Making  
+     ↪ 📜 Expected Utility  
+     ↪ 📜 Prospect Theory  
+     ↪ 📜 Softmax Model  
+   ↳ 📂 Learning  
+     ↪ 📜 Bayesian Updating  
+     ↪ 📜 Q-Learning  
+   ↳ 📂 Social Behavior  
+     ↪ 📜 Replicator Dynamics  
+     ↪ 📜 Schelling Segregation  
+
+📂 code                      → Implementation in Different Languages  
+   ↳ 📂 Python  
+     ↪ 📜 decision_models.py  
+     ↪ 📜 learning_models.py  
+   ↳ 📂 R  
+   ↳ 📂 MATLAB  
+
+📂 notebooks                 → Jupyter Notebooks for Interactive Exploration  
+   ↪ 📜 Decision Models.ipynb  
+   ↪ 📜 Learning Models.ipynb  
+
+📂 resources                 → Learning Materials & References  
+   ↪ 📜 Books  
+   ↪ 📜 Online Courses  
+
+📂 discussions               → Feature Requests & Topic Discussions
 ```
 ---
 
