@@ -41,8 +41,8 @@ Payoff matrix:
 
 |      | Hawk  | Dove  |
 |------|------|------|
-| **Hawk** | \( (V-C)/2 \) | \( V \) |
-| **Dove** | \( 0 \) | \( V/2 \) |
+| **Hawk** | $$\( (V-C)/2 \)$$ | $$\( V \)$$ |
+| **Dove** | $$\( 0 \)$$ | $$\( V/2 \)$$ |
 
 Where:
 - $$\( V \)$$ = Value of the resource.
