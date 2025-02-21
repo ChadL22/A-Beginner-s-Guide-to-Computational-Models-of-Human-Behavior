@@ -35,4 +35,4 @@ After many iterations, the city becomes **highly segregated**, even if agents we
 ## 📚 Further Reading
 - [Schelling’s Original Paper (1971)](https://www.jstor.org/stable/1823701)
 - [Wikipedia: Schelling Segregation Model](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation)
-- [Agent-Based Modeling of Segregation](https://mitpress.mit.edu/books/growing-artificial-societies)
+- [Scott Page](https://www.youtube.com/watch?v=VJgP36IQ6go)
