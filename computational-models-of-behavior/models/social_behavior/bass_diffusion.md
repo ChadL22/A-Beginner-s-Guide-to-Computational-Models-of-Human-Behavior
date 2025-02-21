@@ -85,6 +85,6 @@ This curve represents the classic **S-shaped adoption curve**, where:
 ---
 
 ## 📚 **Further Reading**
-- **Original Paper**: [Bass, 1969](https://journals.sagepub.com/doi/10.1177/002224376903600104)
+- [**Wikipedia**](https://en.wikipedia.org/wiki/Bass_diffusion_model)
 - **Diffusion of Innovations Theory**: [Everett Rogers’ Research](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
-- **Marketing Science & AI Predictions**: [MIT Sloan Research](https://mitsloan.mit.edu/)
+- [**The Bass Model: Marketing Engineering Technical Note**](https://faculty.washington.edu/sundar/NPM/BASS-Forecasting%20Model/Bass%20Model%20Technical%20Note.pdf)
