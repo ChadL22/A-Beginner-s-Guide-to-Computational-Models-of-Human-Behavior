@@ -9,7 +9,7 @@ This model is commonly used to:
 - Optimize **reinforcement learning policies**.
 
 ## 📖 Mathematical Equation
-The probability of selecting action \( a_i \) from a set of possible actions is given by:
+The probability of selecting action $$\( a_i \)$$ from a set of possible actions is given by:
 
 $$P(a_i) = \frac{e^{\beta Q(a_i)}}{\sum_{j} e^{\beta Q(a_j)}}$$
 
@@ -24,9 +24,9 @@ Where:
 
 ## 🔍 Example: Choosing a Restaurant
 A person chooses between:
-- **Pizza $$($Q = 5$)$$**
-- **Burgers $$($Q = 8$)$$**
-- **Sushi $$($Q = 7$)$$**
+- **Pizza $$($Q = 5$)$$ **
+- **Burgers $$($Q = 8$)$$ **
+- **Sushi $$($Q = 7$)$$ **
 
 With $$**\( \beta = 1 \)**$$, the probability of choosing each option is:
 
