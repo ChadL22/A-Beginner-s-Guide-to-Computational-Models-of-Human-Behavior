@@ -16,9 +16,9 @@ x^\alpha & \text{if } x \geq 0 \\
 \end{cases}$$
 
 Where:
-- \( x \) = **Outcome (gain or loss)**
-- \( \alpha, \beta \) = **Sensitivity parameters** (typically \( 0 < \alpha, \beta < 1 \)), capturing diminishing sensitivity.
-- \( \lambda \) = **Loss aversion coefficient** (\( \lambda > 1 \)), meaning losses hurt more than gains.
+- $$\( x \) = **Outcome (gain or loss)**$$
+- $$\( \alpha, \beta \) = **Sensitivity parameters** (typically \( 0 < \alpha, \beta < 1 \)), capturing diminishing sensitivity.$$
+- $$\( \lambda \) = **Loss aversion coefficient** (\( \lambda > 1 \)), meaning losses hurt more than gains.$$
 
 ## 🔍 Example: Loss Aversion in Action
 A person must choose between:
@@ -29,25 +29,23 @@ A person must choose between:
 Using **Prospect Theory with \( \alpha = 0.88, \beta = 0.88, \lambda = 2.25 \)**:
 
 - **Gain Case**:
-  - **Option 1**: \( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.
-  - **Option 2**: \( V(40) = (40)^{0.88} = 27.54 \) (certain gain).
+  - **Option 1**: $$\( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.$$
+  - **Option 2**: $$\( V(40) = (40)^{0.88} = 27.54 \) (certain gain).$$
   - People often prefer **Option 2**, despite higher expected value in Option 1.
 
 - **Loss Case**:
-  - **Option 1**: \( V(-100) = -2.25 \times (100)^{0.88} = -118.08 \).
-  - **Option 2**: \( V(-40) = -2.25 \times (40)^{0.88} = -62.01 \).
+  - **Option 1**: $$\( V(-100) = -2.25 \times (100)^{0.88} = -118.08 \).$$
+  - **Option 2**: $$\( V(-40) = -2.25 \times (40)^{0.88} = -62.01 \).$$
   - People often prefer **Option 1**, since **risk-seeking** behavior increases in the loss domain.
 
 ## 🔍 Probability Weighting
 In Prospect Theory, probabilities are transformed using a **weighting function**:
 
-$$
-w(p) = \frac{p^\gamma}{(p^\gamma + (1 - p)^\gamma)^{1/\gamma}}
-$$
+$$w(p) = \frac{p^\gamma}{(p^\gamma + (1 - p)^\gamma)^{1/\gamma}}$$
 
 Where:
-- \( w(p) \) = **Transformed probability**.
-- \( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)).
+- $$\( w(p) \) = **Transformed probability**.$$
+- $$\( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)).$$
 
 🔹 **Small probabilities (e.g., winning the lottery) are overweighted.**  
 🔹 **Large probabilities (e.g., insuring a house) are underweighted.**
