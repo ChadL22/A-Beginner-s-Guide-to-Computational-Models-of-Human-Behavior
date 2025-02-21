@@ -40,5 +40,5 @@ This means the person will **most likely** choose **Burgers**, but still has a s
 
 ## 📚 Further Reading
 - [Softmax Function – Wikipedia](https://en.wikipedia.org/wiki/Softmax_function)
-- [Reinforcement Learning: An Introduction (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html)
-- [Softmax in Neuroscience](https://pubmed.ncbi.nlm.nih.gov/16497716/)
+- [The softmax function: Properties, motivation, and interpretation* (Franke & Degen)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://alpslab.stanford.edu/papers/FrankeDegen_submitted.pdf)
+- [Parameter Estimation in Softmax Decision-Making Models With Linear Objective Functions(Reverdy & Leonard)](https://arxiv.org/abs/1502.04635)
