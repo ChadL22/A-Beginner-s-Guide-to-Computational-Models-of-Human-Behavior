@@ -6,9 +6,9 @@ Expected Utility Theory (EUT) is a fundamental model in decision theory that des
 ## 📖 Mathematical Equation
 $$EU(A) = \sum_{i} p_i U(x_i)$$
 Where:
-- $$ \( A \) = Action or choice.$$
-- $$ \( p_i \) = Probability of outcome \( i \).$$
-- $$ \( U(x_i) \) = Utility of outcome \( x_i \).$$
+- $$\( A \) = Action or choice.$$
+- $$\( p_i \) = Probability of outcome \( i \).$$
+- $$\( U(x_i) \) = Utility of outcome \( x_i \).$$
 
 ## 🔍 Example
 A person must choose between:
