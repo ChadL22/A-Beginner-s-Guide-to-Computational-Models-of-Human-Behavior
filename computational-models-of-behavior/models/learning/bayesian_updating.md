@@ -46,4 +46,4 @@ This means that even with a **positive test**, the probability of actually havin
 ## 📚 Further Reading
 - [Wikipedia: Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 - [Bayesian Updating with Discrete Priors](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_class11-prep.pdf)
-- [Bayesian Cognition: How Humans Think](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/bayesian-modeling-in-cognitive-science/94B399F6B9C2F0FEFC3777B2F7AB4B0E)
+- [Bayesian Models of Cognition](https://cocosci.princeton.edu/tom/papers/bayeschapter.pdf)
