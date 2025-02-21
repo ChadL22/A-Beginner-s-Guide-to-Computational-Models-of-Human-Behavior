@@ -19,16 +19,16 @@ Where:
 - $$\( \beta \)$$ = **Inverse temperature parameter** (*higher values lead to more deterministic choices*).
 
 ## 🔍 Effect of $$\( \beta \)$$ (Temperature Parameter)
-- $$**\( \beta \to 0 \)$$ (Random Choice)**: All actions are equally likely (high exploration).
-- $$**\( \beta \to \infty \)$$ (Greedy Choice)**: The action with the highest $$\( Q(a) \)$$ is always selected (no exploration).
+- **$$\( \beta \to 0 \)$$ (Random Choice)**: All actions are equally likely (high exploration).
+- **$$\( \beta \to \infty \)$$ (Greedy Choice)**: The action with the highest $$\( Q(a) \)$$ is always selected (no exploration).
 
 ## 🔍 Example: Choosing a Restaurant
 A person chooses between:
-- **Pizza $$($Q = 5$)**$$
-- **Burgers $$($Q = 8$)**$$
-- **Sushi $$($Q = 7$)**$$
+- **Pizza $$($Q = 5$)$$**
+- **Burgers $$($Q = 8$)$$**
+- **Sushi $$($Q = 7$)$$**
 
-With **\( \beta = 1 \)**, the probability of choosing each option is:
+With $$**\( \beta = 1 \)**$$, the probability of choosing each option is:
 
 $$P(\text{Pizza}) = \frac{e^{1 \times 5}}{e^5 + e^8 + e^7} \approx 0.0024$$
 
