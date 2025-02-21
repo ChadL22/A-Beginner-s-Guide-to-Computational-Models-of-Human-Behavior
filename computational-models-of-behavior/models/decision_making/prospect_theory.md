@@ -44,8 +44,8 @@ In Prospect Theory, probabilities are transformed using a **weighting function**
 $$w(p) = \frac{p^\gamma}{(p^\gamma + (1 - p)^\gamma)^{1/\gamma}}$$
 
 Where:
-- $$\( w(p) \) = **Transformed probability**.$$
-- $$\( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)).$$
+- $\( w(p) \) = **Transformed probability**.$
+- $\( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)).$
 
 🔹 **Small probabilities (e.g., winning the lottery) are overweighted.**  
 🔹 **Large probabilities (e.g., insuring a house) are underweighted.**
