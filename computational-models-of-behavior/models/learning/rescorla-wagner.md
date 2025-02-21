@@ -65,6 +65,6 @@ Where:
 ---
 
 ## 📚 **Further Reading**
-- **Original Paper**: [Rescorla & Wagner, 1972](https://psycnet.apa.org/record/1973-23272-001)
-- **Neuroscience & Learning Models**: [MIT OpenCourseWare on Learning](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/)
-- **Reinforcement Learning Applications**: [DeepMind’s AI Research](https://deepmind.com/)
+- [**Wikipedia**](https://en.wikipedia.org/wiki/Rescorla%E2%80%93Wagner_model)
+- **An Aplication**: [Model-Free Risk-Sensitive Reinforcement Learning](https://arxiv.org/abs/2111.02907)
+- [**The Rescorla-Wagner Model explained!**](https://www.youtube.com/watch?v=N_MNxbcOTX4)
