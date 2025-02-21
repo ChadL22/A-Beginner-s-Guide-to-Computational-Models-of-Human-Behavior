@@ -29,8 +29,8 @@ A person must choose between:
 $$Using **Prospect Theory with \( \alpha = 0.88, \beta = 0.88, \lambda = 2.25 \)**:$$
 
 - **Gain Case**:
-  - $$**Option 1**: \( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.
-  - **Option 2**: \( V(40) = (40)^{0.88} = 27.54 \) (certain gain).
+  - **Option 1**: $$\( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.$$
+  - **Option 2**: $$\( V(40) = (40)^{0.88} = 27.54 \) (certain gain).$$
   - People often prefer **Option 2**, despite higher expected value in Option 1.$$
 
 - **Loss Case**:
