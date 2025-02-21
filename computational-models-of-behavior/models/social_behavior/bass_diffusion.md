@@ -70,7 +70,7 @@ Adoption Over Time: | **** | ****** | ******* | ********* | ********** |********
 - Widely used in **business, sociology, and epidemiology**.
 
 ❌ **Limitations**
-- Assumes **constant innovation & imitation rates** (\( p \) and \( q \)).
+- Assumes **constant innovation & imitation rates** $$(\( p \)$$ and $$\( q \))$$.
 - Does **not account for competition** or **network effects**.
 - **External shocks** (e.g., government policy) are not included.
 
