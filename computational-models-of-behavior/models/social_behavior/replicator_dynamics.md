@@ -52,5 +52,5 @@ Using **Replicator Dynamics**, we can simulate how the proportion of Hawks and D
 
 ## 📚 Further Reading
 - [Evolutionary Game Theory – Stanford Encyclopedia](https://plato.stanford.edu/entries/game-evolutionary/)
-- [Mathematical Biology by J.D. Murray](https://www.springer.com/gp/book/9780387952239)
+- [Lecture](https://www.youtube.com/watch?v=nTKYngchaaY)
 - [Replicator Dynamics – Wikipedia](https://en.wikipedia.org/wiki/Replicator_equation)
