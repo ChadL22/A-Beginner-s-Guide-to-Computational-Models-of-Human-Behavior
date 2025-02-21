@@ -6,7 +6,7 @@ Prospect Theory, developed by **Daniel Kahneman and Amos Tversky**, describes ho
 - **Probability distortion**: Small probabilities are overweighted, and large probabilities are underweighted.
 
 ## 📖 Mathematical Equation
-The value function \( V(x) \) is defined as:
+$$The value function \( V(x) \) is defined as:$$
 
 
 $$V(x) =
@@ -16,9 +16,9 @@ x^\alpha & \text{if } x \geq 0 \\
 \end{cases}$$
 
 Where:
-- $$\( x \) = **Outcome (gain or loss)**$$
-- $$\( \alpha, \beta \) = **Sensitivity parameters** (typically \( 0 < \alpha, \beta < 1 \)), capturing diminishing sensitivity.$$
-- $$\( \lambda \) = **Loss aversion coefficient** (\( \lambda > 1 \)), meaning losses hurt more than gains.$$
+- $$ \( x \) = **Outcome (gain or loss)** $$
+- $$ \( \alpha, \beta \) = **Sensitivity parameters** (typically \( 0 < \alpha, \beta < 1 \)), capturing diminishing sensitivity. $$
+- $$ \( \lambda \) = **Loss aversion coefficient** (\( \lambda > 1 \)), meaning losses hurt more than gains. $$
 
 ## 🔍 Example: Loss Aversion in Action
 A person must choose between:
@@ -44,8 +44,8 @@ In Prospect Theory, probabilities are transformed using a **weighting function**
 $$w(p) = \frac{p^\gamma}{(p^\gamma + (1 - p)^\gamma)^{1/\gamma}}$$
 
 Where:
-- $\( w(p) \) = **Transformed probability**.$
-- $\( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)).$
+- $$ \( w(p) \) = **Transformed probability**. $$
+- $$ \( \gamma \) = **Probability distortion parameter** (typically \( 0.61 \)). $$
 
 🔹 **Small probabilities (e.g., winning the lottery) are overweighted.**  
 🔹 **Large probabilities (e.g., insuring a house) are underweighted.**
