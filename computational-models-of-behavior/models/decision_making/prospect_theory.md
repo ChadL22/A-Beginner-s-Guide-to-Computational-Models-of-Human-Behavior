@@ -26,12 +26,12 @@ A person must choose between:
 1. **Gain Scenario**:  A **50% chance** to win **$100** or a **100% chance** to win **$40**.
 2. **Loss Scenario**: A **50% chance** to lose **$100** or a **100% chance** to lose **$40**.
 
-Using **Prospect Theory with \( \alpha = 0.88, \beta = 0.88, \lambda = 2.25 \)**:
+$$Using **Prospect Theory with \( \alpha = 0.88, \beta = 0.88, \lambda = 2.25 \)**:$$
 
 - **Gain Case**:
-  - **Option 1**: $$\( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.$$
-  - **Option 2**: $$\( V(40) = (40)^{0.88} = 27.54 \) (certain gain).$$
-  - People often prefer **Option 2**, despite higher expected value in Option 1.
+  - $$**Option 1**: \( V(100) = (100)^{0.88} = 52.48 \), weighted by probability.
+  - **Option 2**: \( V(40) = (40)^{0.88} = 27.54 \) (certain gain).
+  - People often prefer **Option 2**, despite higher expected value in Option 1.$$
 
 - **Loss Case**:
   - **Option 1**: $$\( V(-100) = -2.25 \times (100)^{0.88} = -118.08 \).$$
