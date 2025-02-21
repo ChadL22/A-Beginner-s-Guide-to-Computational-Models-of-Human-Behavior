@@ -46,7 +46,7 @@ The **Bass Diffusion Curve** resembles an **S-shaped function (sigmoid curve)**:
 
 ## 📊 Adoption Over Time (Bass Diffusion Curve)
 
-![Bass Diffusion S-Curve]()
+![Bass Diffusion S-Curve](https://github.com/chadl22/A-Beginner-s-Guide-to-Computational-Models-of-Human-Behavior/blob/main/models/social_behavior/bass-diffusion.jpg?raw=true)
 
 This curve represents the classic **S-shaped adoption curve**, where:
 - The first adopters (**innovators**) drive early growth.
