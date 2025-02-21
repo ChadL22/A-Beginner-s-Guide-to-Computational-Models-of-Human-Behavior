@@ -44,7 +44,15 @@ The **Bass Diffusion Curve** resembles an **S-shaped function (sigmoid curve)**:
 - **Exponential Growth** – Imitators drive rapid adoption.
 - **Saturation** – Adoption slows as fewer non-adopters remain.
 
-Adoption Over Time: | **** | ****** | ******* | ********* | ********** |************* ----------------- Time →
+## 📊 Adoption Over Time (Bass Diffusion Curve)
+
+![Bass Diffusion S-Curve](/Users/sipho/Downloads/bass-diffusion.jpg)
+
+This curve represents the classic **S-shaped adoption curve**, where:
+- The first adopters (**innovators**) drive early growth.
+- The majority adopts due to **social influence (imitators)**.
+- The adoption rate slows down **as saturation occurs**.
+
 
 ---
 
