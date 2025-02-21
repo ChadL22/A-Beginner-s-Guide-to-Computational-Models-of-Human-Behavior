@@ -7,8 +7,8 @@
 The model represents a city as a **grid of agents** where each agent has a **tolerance threshold** $$\( T \)$$, which determines whether they are **happy** or **unhappy** based on their neighbors.
 
 Each agent follows this rule:
-- If the fraction of similar neighbors is **\( \geq T \)**, the agent **stays**.
-- If the fraction of similar neighbors is **\( < T \)**, the agent **moves** to a random empty space.
+- If the fraction of similar neighbors is **$$\( \geq T \)$$**, the agent **stays**.
+- If the fraction of similar neighbors is **$$\( < T \)$$**, the agent **moves** to a random empty space.
 
 Formally:
 
